@@ -22,5 +22,5 @@ app.get('/api/inventory/:index', (req, res) => {
 });
 
 
-const SERVER_PORT = 5050;
-app.listen(SERVER_PORT, () => console.log(`Server jamming on ${SERVER_PORT}`));
+// const SERVER_PORT = 5050;
+// app.listen(SERVER_PORT, () => console.log(`Server jamming on ${SERVER_PORT}`));
